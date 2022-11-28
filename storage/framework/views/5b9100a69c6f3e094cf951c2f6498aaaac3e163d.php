@@ -4,7 +4,7 @@
 
         <h1 class="font-bold text-4xl">Hi, There!</h1><br>
 
-        <h1 class="text-2xl">My Name is Sammy Mutisya Kivaki from Nairobi, Kenya.</h1>
+        <h1 class="text-2xl">Am Sammy Mutisya Web/Application Developer from Nairobi, Kenya.</h1>
 
         <h1 class="text-2xl">I love programming, as well as playing soccer, travelling and learning new things!</h1>
 

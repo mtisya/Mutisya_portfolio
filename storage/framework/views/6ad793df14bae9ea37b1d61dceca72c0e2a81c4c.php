@@ -22,10 +22,11 @@ html {
             </div>
 
             <div class="y-2 md:flex md:justify-left md:items-center" style="flex-grow: 30">
-                <a href="/samtish2010@gmail.com" class="">
+                <a href="/samtish2010@gmail.com" class="ml-4">
                     <img src="/images/emailimage.jpg" alt="Company Logo" width="30" height="2"></a>
                 <a href="/www.facebook.com" class=""><img src="/images/fbimage.jpg" alt="Company Logo" width="40" height="2"></a>
                 <a href="/www.whatsapp.com" class=""><img src="/images/whatsappimage.jpg" alt="Company Logo" width="40" height=""></a>
+                <p class="text-xs text-red-500 ml-4 font-semibold">Tel No. +254-714-795-773 / +254-716-940-422</p>
             </div>
 
             <div class="mt-8 md:mt-0 flex items-center">
@@ -87,8 +88,9 @@ html {
 <?php endif; ?> 
 
                 <?php else: ?>
-                    <a href="#portfolio" class="text-xs font-bold uppercase">Portfolio</a>
-                    <a href="#blog" class="ml-6 text-xs font-bold uppercase">My Blog</a>
+                    <a href="#timeline" class="text-xs text-purple-700 font-bold uppercase">Timeline</a>
+                    <a href="#portfolio" class="ml-4 text-xs text-purple-700 font-bold uppercase">Portfolio</a>
+                    <a href="#blog" class="ml-4 text-xs text-purple-700 font-bold uppercase">My Blog</a>
                 <?php endif; ?>
 
                 <a href="#newsletter" class="bg-blue-500 ml-3 rounded-full text-xs font-semibold text-white uppercase py-3 px-5">
@@ -101,7 +103,7 @@ html {
 
 
         <footer id="newsletter" class="bg-blue-200 border border-black border-opacity-5 text-center py-6 px-10 mt-16">
-            <!-- <img src="/images/lary-newsletter-icon.svg" alt="Company photo" class="mx-auto mb-4" style="width: 80px; height: 50px;"> -->
+
             <h5 class="text-xl">Stay in touch with the latest work and projects</h5>
 
             <div class="mt-10">
@@ -138,7 +140,8 @@ unset($__errorArgs, $__bag); ?>
                         </button>
                     </form>
                 </div>
-            </div>
+<!--                 <p class="text-16xs font-bold text-purple-700 mt-10">Copyrights@ | Mutisya Softwares 2022</p>
+ -->            </div>
         </footer>
     </section>
 

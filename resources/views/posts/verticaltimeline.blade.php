@@ -1,6 +1,6 @@
 <!-- vertical timeline -->
 <div class="space-x-8 lg:space-y-0 lg:space-x-4 mt-4 mb-12">
-      <p class="justify-between text-center font-bold text-2xl py-2 text-blue-500"><u>Timeline</u></p>
+      <p id="timeline" class="justify-between text-center font-bold text-2xl py-2 text-blue-500"><u>Timeline</u></p>
 </div>
 <div class="container mx-auto w-full h-full">
   <div class="relative wrap overflow-hidden p-10 h-full">

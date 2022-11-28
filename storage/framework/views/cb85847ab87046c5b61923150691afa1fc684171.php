@@ -1,0 +1,1 @@
+components.layout<?php /**PATH C:\Laravel_Projects\Mutisya_portfolio\storage\framework\views/28553904311af1fdfdb56492bacf295468d8a258.blade.php ENDPATH**/ ?>

@@ -3,9 +3,9 @@
 
     <div class="space-x-8 lg:space-y-0 lg:space-x-4 mt-4 mb-12">
 
-    	<p class="font-bold text-4xl bg-blue-200 mb-4 mt-24  py-20">Portfolio</p>
+    	<p id="portfolio" class="font-bold text-4xl bg-blue-200 mb-4 mt-24  py-20">Portfolio</p>
 
-    	<p class="font-bold text-2xl py-2 text-blue-500"><u>My Projects/Work</u></p>
+    	<p class="font-bold text-2xl py-2 text-blue-500"><u>Top Projects/Work</u></p>
        
     </div>
 <div class="flex max-w-8xl">
@@ -60,7 +60,7 @@
                 <div class="mt-4">
                     <h1 class="text-3xl">
 
-                        <a href="#">Bens Electronics Services Ltd</a>
+                        <a href="#">Business Management System</a>
 
                     </h1>
 
@@ -72,7 +72,7 @@
 
             <div class="text-sm mt-2 space-y-4">
 
-                <p>Business Management System. The project implements the turn arround document that involves all the processes within the business. Best feature of this project is the dynamic allocation of the unique order number whenever a order is created. The order can be created by both department</p>
+                <p>Developed Management System for Bens Electronic Services Ltd. The project implements the turn arround document that involves all operational processes within the business. Best feature of this project is the dynamic allocation of the unique order number whenever a order is created. The order can be created by both department</p>
 
             </div>
 
@@ -137,19 +137,19 @@
                 <div class="mt-4">
                     <h1 class="text-3xl">
 
-                        <a href="#">My Personal Blog</a>
+                        <a href="#">Technology Blog</a>
 
                     </h1>
 
                     <span class="mt-2 block text-gray-400 text-xs">
-                        Published on <time>18/03/2022</time>
+                        Published on <time>Comming soon!</time>
                     </span>
                 </div>
             </header>
 
             <div class="text-sm mt-2 space-y-4">
 
-                <p>While learning <b>laravel</b> a php framework, I came up with my own blog where i do share ICT and Technological news and innovations, i can reach my audience through email subscription and my profile. it entails all functions of a complete blog. Was a great experience learning Tailwind CSS and Aphinejs</p>
+                <p>While learning <b>laravel</b> a PHP framework, I came up with a technology blog where i do share ICT and technological news and innovations, I can reach my audience through email subscription and portfolio. it entails all functions of a complete blog. Was a great experience learning Tailwind CSS and Aphinejs</p>
 
             </div>
 

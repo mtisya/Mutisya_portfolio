@@ -1,0 +1,1 @@
+components.posts-grid<?php /**PATH C:\Laravel_Projects\Mutisya_portfolio\storage\framework\views/b482e29e208afd2b1831fae2d9b599220dee91c0.blade.php ENDPATH**/ ?>

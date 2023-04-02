@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="products/images/readmeimg.png" width="400"></a></p>
-=======
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
->>>>>>> a6dd6c213b7cafaf31532deb746a8b98bee830eb
+<p align="center"><img src="public/images/readmeimg.png" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -12,15 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<<<<<<< HEAD
-## About project "Website Developer Portfolio"
 
-This project was developed using PHP/Laravel framework, this website application is designed  with expressive, optimal and  elegant syntax. With the aim of profiling personal achievement, projects done and testimonials and credit given in the field of professional carreer only on one page website, this informative websites eases the work of writting a 10 page resume show casing your professional experience. The development process gave me enjoyable and creative experience and is truly fulfilling. Laravel framework takes the pain out of development by easing common tasks used in many web projects, such as:
-=======
-## About Laravel
+<h2>About The Project "Developer Portfolio"</h2>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
->>>>>>> a6dd6c213b7cafaf31532deb746a8b98bee830eb
+<p>This project was developed using PHP/Laravel framework, this website application is designed  with expressive, optimal and  elegant syntax. With the aim of profiling personal achievement, projects done and testimonials and credit given in the field of professional carreer only on one page website, this informative websites eases the work of writting a 10 page resume show casing your professional experience. The development process gave me enjoyable and creative experience and is truly fulfilling. Laravel framework takes the pain out of development by easing common tasks used in many web projects, such as:</p>
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).

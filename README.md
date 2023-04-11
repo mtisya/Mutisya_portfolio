@@ -26,26 +26,30 @@ The main Feature of this project is on the timeline section where I used vertica
 
 I also used Aphinejs and Tailwind CSS framework for styling and responsiveness functions which gave me news experiences
 
-## Project Supporters
+<h4>Project Demo</h4>
 
-I would like to extend my thanks to the following sponsors for funding this project development. If you are interested in supporting, please visit the MutiSoftwares Services Ltd website.
+## <iframe><video src="image/video/instoredemo.vlc"></video></iframe>
 
-### Premium Partners
+<h4>Premium owner</h4> 
 
 - **[Mutisoftwares Services Ltd](https://MutiSoftwwares.co.ke/)**
 
-## Contributing
+<h4>Contributing</h4>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+I would like to extend my thanks to the following supporters for supporting this project development. If you are interested in supporting, please visit the [https://mutisoftwares.co.ke] website.
 
-## Code of Conduct
+<h4>Code of Conduct</h4>
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+In order to ensure that the coding community is welcoming to all, please review and abide by the [Code of Conduct].
 
-## Security Vulnerabilities
+<h4>Code Reviews</h4>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover any error or bug within the project, please send an e-mail to Mutisya Sammy via [samtish2010@gmail.com](sammy@mutisoftwares.co.ke). All security vulnerabilities will be promptly addressed.
 
-## License
+<h4>Installation Guide</h4>
+ 
+Clone the git respository to your local folder(root directory) for example htdoc for apache users and import database using the sql file included, then navigate to web browser to run the index file it will take you to home page. Happy browsing.
 
-This is Laravel project and is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<h4>License</h4>
+
+This is an ecommerce project and is open-source software NOT licensed under the [MIT license].

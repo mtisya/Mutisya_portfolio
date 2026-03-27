@@ -32,7 +32,7 @@ I also used Aphinejs and the Tailwind CSS framework for styling and responsivene
 
 <h4>Premium owner</h4> 
 
-- **[Mutisoftwares Services Ltd](https://website.mutisoftwwares.co.ke/)**
+- **[Mutisoftwares Services Ltd](https://website.mutisoftwares.co.ke/)**
 
 <h4>Contributing</h4>
 

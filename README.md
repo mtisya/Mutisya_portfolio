@@ -6,7 +6,7 @@
 
 ![readmeimg](https://user-images.githubusercontent.com/8428844/229359328-a7692fe6-6ba6-45a9-9ef0-00f712632b74.PNG)
 
-<p> The development process gave me enjoyable and creative experience and is truly fulfilling. Laravel framework takes the pain out of development by easing common tasks used in many web projects, such as:</p>
+<p> The development process gave me an enjoyable and creative experience and is truly fulfilling. Laravel framework takes the pain out of development by easing common tasks used in many web projects, such as:</p>
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
@@ -16,15 +16,15 @@
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Laravel is accessible, powerful, and provides the tools required for large, robust applications.
 
 ## Main Feature 
 
-The main Feature of this project is on the timeline section where I used vertical listing of the achievements in chronological order.
+The main Feature of this project is in the timeline section, where I used a vertical listing of the achievements in chronological order.
 
 ![timeline](https://user-images.githubusercontent.com/8428844/229361400-2cdf2ae1-fdd4-47ca-87c8-143b89c5239c.PNG)
 
-I also used Aphinejs and Tailwind CSS framework for styling and responsiveness functions which gave me news experiences
+I also used Aphinejs and the Tailwind CSS framework for styling and responsiveness functions, which gave me new experiences
 
 <h4>Project Demo</h4>
 
@@ -32,7 +32,7 @@ I also used Aphinejs and Tailwind CSS framework for styling and responsiveness f
 
 <h4>Premium owner</h4> 
 
-- **[Mutisoftwares Services Ltd](https://MutiSoftwwares.co.ke/)**
+- **[Mutisoftwares Services Ltd](https://website.mutisoftwwares.co.ke/)**
 
 <h4>Contributing</h4>
 
@@ -44,12 +44,12 @@ In order to ensure that the coding community is welcoming to all, please review 
 
 <h4>Code Reviews</h4>
 
-If you discover any error or bug within the project, please send an e-mail to Mutisya Sammy via [samtish2010@gmail.com](sammy@mutisoftwares.co.ke). All security vulnerabilities will be promptly addressed.
+If you discover any errors or bugs within the project, please send an email to Mutisya Sammy via [samtish2010@gmail.com](sammy@mutisoftwares.co.ke). All security vulnerabilities will be promptly addressed.
 
 <h4>Installation Guide</h4>
  
-Clone the git respository to your local folder(root directory) for example htdoc for apache users and import database using the sql file included, then navigate to web browser to run the index file it will take you to home page. Happy browsing.
+Clone the git repository to your local folder(root directory), for example, htdoc for Apache users, and import the database using the SQL file included, then navigate to a web browser to run the index file, which will take you to the home page. Happy browsing.
 
 <h4>License</h4>
 
-This is an ecommerce project and is open-source software NOT licensed under the [MIT license].
+This is a Laravel Project and is open-source software NOT licensed under the [MIT license].

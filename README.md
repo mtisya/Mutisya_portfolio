@@ -1,9 +1,9 @@
 <h2>About The Project "Developer Portfolio"</h2>
 
-<p>I developed this project using <b>PHP/Laravel Framework</b>, this website application is designed  with expressive, optimal and  elegant syntax. With the aim of profiling personal achievement, projects done and testimonials and credit given in the field of professional carreer only on <b>one page website</b>, This informative websites eases the work of writting a 10 page resume show casing your professional experience.</p>
+<p>I developed this project using <b>PHP/Laravel Framework</b>. This website application is designed  with expressive, optimal, and  elegant syntax. With the aim of profiling personal achievement, projects done, testimonials, and credit given in the field of professional career, only on <b> one-page website</b>, this informative website eases the work of writing a 10-page resume showcasing your professional experience.</p>
 
 <h4>Home Page</h4>
-
+<h4>link: https://portfolio.mutisoftwares.co.ke/</h4>
 ![readmeimg](https://user-images.githubusercontent.com/8428844/229359328-a7692fe6-6ba6-45a9-9ef0-00f712632b74.PNG)
 
 <p> The development process gave me an enjoyable and creative experience and is truly fulfilling. Laravel framework takes the pain out of development by easing common tasks used in many web projects, such as:</p>
